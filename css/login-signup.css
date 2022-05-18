@@ -1,0 +1,148 @@
+body {
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+.centerLogIn {
+    background-color: #ededed;
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.centerLogIn2 {
+    background-color: #ededed;
+    margin: auto;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    width: 50%;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hLogIn {
+    color: #000000;
+    font-weight: 600;
+    text-align: center;
+}
+
+#logInBtn , #signUpBtn {
+    height: 50px;
+    width: 100%;
+    font-size: 1.5em;
+    color: #fff;
+    background-color: #069A8E ;
+    border-radius: 3px;
+}
+
+
+.titleStyle {
+    font-size: 1.5em;
+}
+
+.userInfo {
+    color: white;
+}
+
+
+
+.centerMain {
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+}
+
+.centerAdd {
+    margin: auto;
+    width: 50%;
+}
+
+.divider {
+    margin: auto;
+}
+
+hr.solid {
+    border-top: 5px solid #bbb;
+}
+
+hr.task {
+    display: none;
+    border-top: 3px solid #da7f8f;
+    width: 100%;
+}
+
+.trashBtn :hover {
+    float: right;
+    color: #d9534f !important;
+}
+
+.trashBtn {
+    float: right;
+    color: #d9544fb2 !important;
+}
+
+.editBtn :hover {
+    float: right;
+    color: #0275d8 !important;
+}
+
+.editBtn {
+    float: right;
+    color: #0274d8c4 !important;
+}
+
+li div {
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.taskTitleStyle {
+    font-size: 2.0em;
+    font-weight: 530;
+}
+
+.taskDescriptionStyle {
+    display: none;
+}
+
+.taskDateTimeStyle {
+    font-size: 0.8em;
+    font-weight: 500;
+
+}
+
+.taskCard {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.card {
+    border-color: transparent;
+}
+
+/* HOME ADD BUTTON */
+.addBtn {
+    background-color: #738fb9;
+    color: white;
+    border-color: #738fb9;
+}
+
+.addBtn:hover {
+    background-color: #7296CD;
+    color: white;
+    border-color: #7296CD;
+}
