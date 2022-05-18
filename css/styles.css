@@ -133,7 +133,7 @@ html{
 }
 
 .card {
-  background-color: var(--bs-gray)  !important;
+  background-color: #A0BCC2  !important;
 }
 .cardC {
   background-color: #D77FA1  !important;
@@ -11489,7 +11489,7 @@ textarea.form-control-lg {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../newpics/maindoc-2.jpg") no-repeat center center;
+  background: url("../assets/img/maindoc-2.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -11528,4 +11528,10 @@ header.masthead h1, header.masthead .h1 {
 .dark-font{
   color: #333;
   text-decoration: none !important;
+}
+
+.price-style{
+  font-size: 1em;
+  font-weight: 600;
+  color: #333 !important;
 }
